@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "odoobgnet_ecommerce",
+    'name': "odoobgnet_crm",
 
     'summary': """
-        OdooBG.Net eCommerce set of modules""",
+        OdooBG.Net CRM set of modules""",
 
     'description': """
-        This module is container for the default set of modules, automatically installed with each OdooBG.Net eCommerce installation.
+        This module is container for the default set of modules, automatically installed with each OdooBG.Net CRM installation.
     """,
 
     'author': "OdooBG.Net, Lumnus LTD",

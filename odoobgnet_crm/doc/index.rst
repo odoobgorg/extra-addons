@@ -1,7 +1,7 @@
 OdooBG.Net Base Modules for every installation
 =======================
 
-This module is container for the default set of E-commerce modules, installed with OdooBG.Net installation.
+This module is container for the default set of CRM modules, installed with OdooBG.Net installation.
 
 You can send us comments and inquires at:
 http://www.odoobg.net/contact/

@@ -22,8 +22,6 @@
 
     # any module necessary for this one to work correctly
     'depends': [
-                'account_enterprise_remove',
-                'mass_mailing_enterprise_remove',
                 'product_price_taxes_included',
                 'product_pricelist',
                 'product_prices_update',
@@ -34,8 +32,6 @@
                 'sale_cancel_reason',
                 'sale_crm',
                 'sale_report_hide_price',
-                'sale_enterprise_remove',
-                'stock_enterprise_remove',
                 'product_expiry',
                 'product_manufacturer',
                 'product_multi_category',
@@ -56,16 +52,14 @@
                 'snippet_latest_posts',
                 'website_animate',
                 'website_google_map',
-                'website_sale_enterprise_remove',
                 'website_portal_sale',
                 'website_sale',
                 'website_sale_options',
                 'website_sale_stock',
-                'website_crm'
+                'website_crm',
                 'website_customer',
                 'website_quote',
-                'html_form_builder_snippets',
-                
+                'html_form_builder_snippets'
     ],
 
     # always loaded

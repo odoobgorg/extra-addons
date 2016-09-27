@@ -22,8 +22,10 @@
     'depends': [
                 'base_technical_features',
                 'united_backend_theme',
-                'base_setup_enterprise_remove'
-                
+                'res_config_settings_enterprise_remove',
+                'auto_backup',
+                'base_setup',
+                'disable_odoo_online',
     ],
 
     # always loaded
