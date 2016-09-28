@@ -29,7 +29,7 @@
     'data': [
     ],
     'sequence': 1,
-    'installable': True,
+    'installable': False,
     'auto_install': True,
     'doc': ['doc/index.rst'],
     "application": True,

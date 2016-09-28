@@ -22,7 +22,6 @@
 
     # any module necessary for this one to work correctly
     'depends': [
-                'product_price_taxes_included',
                 'product_pricelist',
                 'product_prices_update',
                 'product',
@@ -41,8 +40,6 @@
                 'product_website_categ_search',
                 'website_sale_options',
                 'payment_paypal',
-                'base_iban',
-                'base_vat',
                 'decimal_precision',
                 'link_tracker',
                 'website_livechat',
@@ -59,14 +56,13 @@
                 'website_crm',
                 'website_customer',
                 'website_quote',
-                'html_form_builder_snippets'
     ],
 
     # always loaded
     'data': [
     ],
     'sequence': 1,
-    'installable': True,
+    'installable': False,
     'auto_install': True,
     'doc': ['doc/index.rst'],
     "application": True,

@@ -26,7 +26,6 @@
                 'project_team',
                 'project_issue',
                 'crm_project_issue',
-                'autostaging_project_task',
                 'project_gantt8',
                 'project_issue_sheet',
                 'project_timesheet',
